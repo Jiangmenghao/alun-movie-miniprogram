@@ -30,6 +30,7 @@
   <img src="./imgs/detail.jpeg" width="200px">
   <img src="./imgs/marked.jpeg" width="200px">
 </p>
+
 > 页面布局已适配多种屏幕尺寸
 
 ## 相关功能
