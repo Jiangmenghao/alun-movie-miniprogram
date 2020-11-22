@@ -58,6 +58,12 @@
 此项目暂时不会考虑开发iOS或Android版。
 虽然用uni-app很快就能完成，但我创作它的初衷是“世界如此复杂 我们简单一点”，阿伦电影最好的归宿就是长期吃灰、偶尔使用。小程序才是它该扮演的角色：无需安装，用完即走。
 
+## 作者
+
+👤 **Jiang Menghao**
+
+* Github: [@Jiangmenghao](https://github.com/Jiangmenghao)
+
 ---
 
 ## Show your support
